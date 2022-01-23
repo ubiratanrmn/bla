@@ -6,3 +6,4 @@ create table noticias (id_noticia int not null primary key auto_increment, titul
 insert into noticias (titulo, noticia) values ("Primeira notícia", "O portal foi lançado");
 select * from noticias;
 
+
